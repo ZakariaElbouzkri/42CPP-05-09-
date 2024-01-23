@@ -6,14 +6,14 @@
 /*   By: zel-bouz <zel-bouz@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/23 00:51:06 by zel-bouz          #+#    #+#             */
-/*   Updated: 2024/01/23 01:48:19 by zel-bouz         ###   ########.fr       */
+/*   Updated: 2024/01/23 02:03:46 by zel-bouz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Bureaucrat.hpp"
 
 Bureaucrat::Bureaucrat( void ) : 
-	name("default"), grade(50)
+	name("DefaultBureaucrat"), grade(50)
 {
 	
 }
