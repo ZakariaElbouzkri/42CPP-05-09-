@@ -3,6 +3,7 @@
 		"*.excalidraw": "json",
 		"*.excalidrawlib": "json",
 		"string": "cpp",
-		"new": "cpp"
+		"new": "cpp",
+		"iosfwd": "cpp"
 	}
 }
